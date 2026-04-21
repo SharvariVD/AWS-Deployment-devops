@@ -2,8 +2,6 @@
 
 Cineverse is a full-stack movie browsing web application. This project covers deploying it end-to-end on AWS — from networking and compute to database, SSL, DNS, auto scaling, and monitoring — entirely through the AWS Management Console.
 
-**Region:** ap-south-1 (Mumbai)
-
 ---
 
 ## 🏗️ Architecture
